@@ -1,0 +1,12 @@
+Job Name: JobForFileLIstandrowcount_0.1.zip
+
+## This is created for check the row count, size, created time, name of file from a defined folder and match it with existing available files record on database, if found different then insert the files detail on database and create a bifurcate reports for new files of folder and rejected files of folder which already available in database.
+
+1. Set your input path in context where your files (csv's) are available. 
+2. Set database connection.
+
+3. Start the job, whenever you have new files in folder, you can check whether this files is already processed or not.
+
+4. The check parameter can be adjusted in job as per requirement.
+
+
